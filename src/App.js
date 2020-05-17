@@ -8,9 +8,9 @@ function App() {
         <h1>Hello World</h1>
 
       </div>
-      <div>
+      <div className='goodbye'>
         <h3>
-          Goodby world
+          Goodbye world
         </h3>
       </div>
     </div>
